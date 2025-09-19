@@ -5,10 +5,6 @@ This website showcases my skills, projects, experience, and contact details in a
 
 ---
 
---
-
----
-
 ## ✨ Features  
 - 📱 **Responsive Design** – Works seamlessly on all device sizes  
 - 🎨 **Modern UI** – Clean and professional design with smooth animations  
