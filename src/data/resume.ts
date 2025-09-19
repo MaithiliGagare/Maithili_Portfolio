@@ -83,8 +83,8 @@ export const projects = [
     description:
       "YOLOv5 + Mediapipe hand gesture-based drawing app with real-time webcam input.",
     technologies: ["Python", "YOLOv5", "OpenCV", "Mediapipe"],
-    image: "/projects/virtualcanvas.png",
-    link: "https://github.com/yashdhudat/Virtural-Canvas-Painter",
+    image: "/projects/Screenshot (125).png",
+    link: "https://github.com/MaithiliGagare/Virtual-painter",
   },
   {
     
