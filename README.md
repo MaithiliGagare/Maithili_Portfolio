@@ -49,47 +49,18 @@ my-portfolio/
 - Node.js 18+  
 - npm or yarn  
 
-### Installation  
-```bash
-# Clone the repository
-git clone https://github.com/yashdhudat/my-portfolio.git
-
-# Navigate into the project
-cd my-portfolio
-
-# Install dependencies
-npm install
-# or
-yarn install
-
-# Run the development server
-npm run dev
-# or
-yarn dev
-Open http://localhost:3000 in your browser.
 
 🎨 Customization
 Update your personal information in src/data/resume.ts
 
 Add your profile picture → public/profile.png
 
-Add your resume → public/YashDhudat_Resume.pdf
+Add your resume → public/Maithili_Gagare_Resume.pdf
 
 Add project images → public/projects/
 
 Customize colors & styles → tailwind.config.js and src/app/globals.css
 
-🚀 Deployment
-The easiest way to deploy is via Vercel:
-
-Connect your GitHub repo on Vercel.
-
-Deploy with 1 click.
-
-Get your live portfolio link instantly.
-
-📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
 
 🙏 Acknowledgments
 Design inspired by Safet Pojskic's portfolio
