@@ -5,10 +5,7 @@ This website showcases my skills, projects, experience, and contact details in a
 
 ---
 
----
-
-## 📸 Portfolio Preview  
-![Portfolio Preview](preview.png)  
+--
 
 ---
 
