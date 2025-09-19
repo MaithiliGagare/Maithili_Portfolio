@@ -1,12 +1,9 @@
-# 🌐 Yash Dhudat – Modern Portfolio Website  
+# 🌐 Maithili Gagare – Modern Portfolio Website  
 
 A modern, animated personal portfolio website built with **Next.js 14**, **TailwindCSS**, and **Framer Motion**.  
 This website showcases my skills, projects, experience, and contact details in a clean and professional way.  
 
 ---
-
-## 🚀 Live Demo  
-👉 [View My Portfolio](https://yashdhudat.vercel.app)
 
 ---
 
